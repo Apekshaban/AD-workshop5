@@ -5,7 +5,7 @@
         Car car = new Car
         {
             Brand = "Toyota",
-            Speed = 120,
+            Speed = 125,
             Seats = 5
         };
 

@@ -9,7 +9,7 @@ namespace Task3
             Printer printer = new Printer();
 
             printer.Print("hello there how are you");
-            printer.Print(123456);
+            printer.Print(123455);
             printer.Print("application", 5);
 
 
